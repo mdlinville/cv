@@ -1,4 +1,4 @@
-## M Linville
+## Matt Linville
 
 San Francisco, CA
 
@@ -13,12 +13,14 @@ contributor guides and I’ve improved logging messages, error strings, naming o
 features and options, software workflows, and localization. My broad and deep
 experience allows me to dive in and make meaningful contributions.
 
-In August 2020, I began a sabbatical which is ongoing. During this time, I’ve
-been serving my local community in two different roles, as a production baker
-and as a deli worker. It’s been fun and gratifying, and I’m now ready for my
-next technical writing role.
+From August 2020 - April 2021, I was on sabbatical. During this time, I served
+my local community in two different roles, as a production baker
+and as a deli worker. It was fun and gratifying.
 
 ### Formal experience
+
+#### **Staff Technical Writer** - Databricks, San Francisco, CA APR 2021 - PRESENT
+- Document tasks related to administration, security, and networking
 
 #### **Senior Technical Writer**​ — Google, San Francisco, CA FEB 2018 - AUG 2020
 - Document software for several Google Cloud services, including:
